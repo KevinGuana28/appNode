@@ -50,8 +50,7 @@
 
 3. To run the project locally, navigate to the project folder and run the following command:
 
-
-         ```bash
+    ```bash
    node appnode.js
 
    ```
