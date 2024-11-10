@@ -1,0 +1,11 @@
+{
+  "name": "appnode",
+  "version": "1.0.0",
+  "main": "appnode.js",
+  "scripts": {
+    "start": "node appnode.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
