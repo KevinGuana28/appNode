@@ -13,8 +13,8 @@ RUN npm install
 # Copia el código de la aplicación
 COPY . .
 
-# Exponer el puerto 3000
+# Exponer el puerto en el que tu aplicación escucha (ajusta según el puerto real)
 EXPOSE 3000
 
-# Ejecutar la aplicación
+# Ejecutar la aplicación (ajusta el nombre de archivo si es necesario)
 CMD ["node", "appnode.js"]
