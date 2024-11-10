@@ -1,5 +1,5 @@
 
-# Python Project
+# Node Project
 
 ## Run it with Docker
 
@@ -50,10 +50,9 @@
 
 3. To run the project locally, navigate to the project folder and run the following command:
 
-   ```bash
+   ``` ``bash
 node appnode.js
-
-   ```
+   ``
 
 4. Go to the link provided or enter `http://localhost:3000` in your browser.
 
